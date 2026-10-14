@@ -2,7 +2,7 @@
 
 一个在浏览器中制作自定义鼠标光标的静态网站。可以上传图片、抠图裁剪、添加光标组件、调整风格与点击热点，并导出单个 PNG 或光标套装 ZIP。图片和保存的作品留在当前浏览器中，不需要注册账号。
 
-在线体验：[Cloudflare 版本](https://cursor-playground.cursorplayground.workers.dev/)
+在线体验：[Vercel 版本](https://cursorplayground-omega.vercel.app/) · [Cloudflare 版本](https://cursor-playground.cursorplayground.workers.dev/)
 
 ## 在自己的电脑上运行
 
@@ -31,4 +31,4 @@ PNG 不会自动安装成系统光标；套装中的角色与热点数据保存�
 
 ## 使用许可
 
-本仓库目前未附带开源许可证。代码公开可见，但作者暂未授予复制、修改、再发布或商业使用许可；如需复用，请先联系仓库所有者取得许可。
+本仓库目前未附带开源许可证。如需在本机体验之外复用、修改、再发布或商业使用代码，请先联系仓库所有者取得许可。
